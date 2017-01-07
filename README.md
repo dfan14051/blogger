@@ -1,2 +1,2 @@
 # Blogger
-Blogger 2 project from [JumpstartLab](http://tutorials.jumpstartlab.com/projects/blogger.html). Completed as part of The Odin Project [Curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/ruby-on-rails?ref=lnav).
+Blogger 2 project from [JumpstartLab](http://tutorials.jumpstartlab.com/projects/blogger.html). Completed as part of The Odin Project [Curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/ruby-on-rails?ref=lnav). Hosted [here](https://secure-everglades-98278.herokuapp.com/)
